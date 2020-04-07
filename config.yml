@@ -9,3 +9,7 @@ locales:
     file: en.json
 content:
   frontMatterFormat: yaml
+  systems:
+    - website
+    - api
+    - cdn
