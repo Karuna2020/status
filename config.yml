@@ -1,0 +1,11 @@
+title: Karuna 2020 Status
+name: karuna_2020_status
+description: Uptime and incident details for Karuna 2020 websites and APIs
+defaultLocale: en
+locales:
+  - code: en
+    iso: en-US
+    name: English
+    file: en.json
+content:
+  frontMatterFormat: yaml

@@ -1,12 +1,23 @@
 {
-  "name": "status",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "karuna_2020_status",
+  "description": "Uptime and incident details for Karuna 2020 websites and APIs",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "statusfy dev",
+    "build": "statusfy build",
+    "start": "statusfy start",
+    "generate": "statusfy generate",
+    "new-incident": "statusfy new-incident",
+    "delete-incident": "statusfy delete-incident",
+    "update-incident": "statusfy update-incident"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "dependencies": {
+    "statusfy": "^0.5.0"
+  },
+  "engines": {
+    "node": ">=10",
+    "npm": ">=5"
+  }
 }
