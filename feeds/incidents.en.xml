@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Karuna 2020 Status</title>
+        <link>https://status.karuna2020.org</link>
+        <description>Uptime and incident details for Karuna 2020 websites and APIs</description>
+        <lastBuildDate>Fri, 30 Oct 2020 00:27:16 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Statusfy</generator>
+        <atom:link href="https://status.karuna2020.org/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GitHub Pages scheduled maintenance]]></title>
+            <link>https://status.karuna2020.org/incidents/51a15e9b</link>
+            <guid>https://status.karuna2020.org/incidents/51a15e9b</guid>
+            <pubDate>Tue, 07 Apr 2020 13:57:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Our websites were down for less than one hour because of scheduled maintenance on GitHub Pages, the primary host. However, not all traffic was affected because of our CDN layer. Link to incident on GitHub Status: <a href="https://www.githubstatus.com/incidents/f3xzj5fgfq5b" target="_blank" rel="noopener noreferrer" class="external">f3xzj5fgfq5b</a></p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>

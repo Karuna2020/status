@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.karuna2020.org</id>
+    <title>Karuna 2020 Status</title>
+    <updated>2020-10-30T00:27:16.401Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.karuna2020.org"/>
+    <link rel="self" href="https://status.karuna2020.org/feeds/incidents.en.atom"/>
+    <subtitle>Uptime and incident details for Karuna 2020 websites and APIs</subtitle>
+    <entry>
+        <title type="html"><![CDATA[GitHub Pages scheduled maintenance]]></title>
+        <id>https://status.karuna2020.org/incidents/51a15e9b</id>
+        <link href="https://status.karuna2020.org/incidents/51a15e9b"/>
+        <updated>2020-04-07T13:57:20.123Z</updated>
+        <content type="html"><![CDATA[<p>Our websites were down for less than one hour because of scheduled maintenance on GitHub Pages, the primary host. However, not all traffic was affected because of our CDN layer. Link to incident on GitHub Status: <a href="https://www.githubstatus.com/incidents/f3xzj5fgfq5b" target="_blank" rel="noopener noreferrer" class="external">f3xzj5fgfq5b</a></p>
+<!--- language code: en -->
+]]></content>
+    </entry>
+</feed>
